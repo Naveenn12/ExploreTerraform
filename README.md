@@ -36,10 +36,6 @@ HashiCorp has released the Terraform Certified Associate certification. You migh
 
 I have coauthored a certification guide which you can find on [Leanpub](https://leanpub.com/terraform-certified/). This is an unofficial guide, but I believe in concert with the Pluralsight courses you will be in a good position to sit the exam.
 
-## Conclusion
-
-I hope you enjoy taking this course as much as I did creating it.  I'd love to hear feedback and suggestions for revisions. Find me on Twitter (@ned1313) or add an issue to this repository.
-
 Thanks and happy automating!
 
 Ned
